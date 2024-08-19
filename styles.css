@@ -4,9 +4,19 @@ body{
     font-size: large;
 }
 
-.button-styles{
+.button{
     font-size: 24px;
     background-color: rgb(154, 195, 197);
+}
+
+#n1, #n2, #n3{
+    border-style: border-box;
+    margin: 40px; 
+    padding: 20px; 
+    border-color: burlywood;
+    width: 250px; 
+    border-radius: 50px;
+
 }
 
 
